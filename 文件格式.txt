@@ -11,9 +11,3 @@
 *.tiff;
 *.TMP;
 *.dwg;
-*.vsd;
-*.vsdx;
-*.cpp;
-*.hpp;
-*.c;
-*.h;
